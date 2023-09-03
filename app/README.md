@@ -1,6 +1,3 @@
-## Student Info
-
-Victor Astinov
 
 ## Build Info
 
